@@ -1,0 +1,29 @@
+{
+	"files.exclude": {
+		"**/.git": true,
+		"**/.svn": true,
+		"**/.hg": true,
+		"**/CVS": true,
+		"**/.DS_Store": true,
+		"**/*.o": true,
+		"**/*.exe": true,
+	},
+	"C_Cpp.errorSquiggles": "disabled",
+	"files.associations": {
+		"*.tcc": "cpp",
+		"cmath": "cpp",
+		"compare": "cpp",
+		"concepts": "cpp",
+		"cstdio": "cpp",
+		"cstdlib": "cpp",
+		"list": "cpp",
+		"exception": "cpp",
+		"initializer_list": "cpp",
+		"limits": "cpp",
+		"new": "cpp",
+		"cstdint": "cpp",
+		"type_traits": "cpp",
+		"typeinfo": "cpp",
+		"iostream": "cpp"
+	}
+}
